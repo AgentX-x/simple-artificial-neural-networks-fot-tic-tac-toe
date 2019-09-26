@@ -1,0 +1,3 @@
+﻿  krestiki.cpp
+C:\Users\zZz\source\repos\first_iskutstven\krestiki\krestiki.cpp(296,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  krestiki.vcxproj -> C:\Users\zZz\source\repos\first_iskutstven\Debug\krestiki.exe
